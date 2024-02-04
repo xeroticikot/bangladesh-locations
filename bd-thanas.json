@@ -366,28 +366,28 @@
     },
     {
       "id": 53,
-      "district_id": 14,
+      "district_id": 24,
       "bn_name": "বোয়ালিয়া",
       "name": "Boalia",
       "phone": "01713373309"
     },
     {
       "id": 54,
-      "district_id": 14,
+      "district_id": 24,
       "bn_name": "রাজাপুর",
       "name": "Rajapur",
       "phone": "01713373310"
     },
     {
       "id": 55,
-      "district_id": 14,
+      "district_id": 24,
       "bn_name": "মতিহার",
       "name": "Motihar",
       "phone": "01713373311"
     },
     {
       "id": 56,
-      "district_id": 14,
+      "district_id": 24,
       "bn_name": "শাহ মখদুম",
       "name": "Shah Makdum",
       "phone": "01713373312"
