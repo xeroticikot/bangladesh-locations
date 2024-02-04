@@ -2036,6 +2036,237 @@
       "bn_name": "নলডাঙ্গা",
       "name": "Naldanga",
       "phone": "0171337373"
+    },
+    {
+      "id": 292,
+      "district_id": 32,
+      "bn_name": "কোতোয়ালী, রংপুর",
+      "name": "Kotwali, Rangpur",
+      "phone": "0171337364"
+    },
+    {
+      "id": 293,
+      "district_id": 32,
+      "bn_name": "গঙ্গাচুড়া",
+      "name": "Gangachura",
+      "phone": "0171337375"
+    },
+    {
+      "id": 294,
+      "district_id": 32,
+      "bn_name": "ভোদারগঞ্জ",
+      "name": "Bhodarganj",
+      "phone": "017133736"
+    },
+    {
+      "id": 295,
+      "district_id": 32,
+      "bn_name": "তারাগঞ্জ",
+      "name": "Taraganj",
+      "phone": "017133736"
+    },
+    {
+      "id": 296,
+      "district_id": 32,
+      "bn_name": "মিঠাপুকুর",
+      "name": "Mithapukur",
+      "phone": "017133736"
+    },
+    {
+      "id": 297,
+      "district_id": 32,
+      "bn_name": "পীরগাছা",
+      "name": "Pirgachha",
+      "phone": "0171337369"
+    },
+    {
+      "id": 298,
+      "district_id": 32,
+      "bn_name": "কাউনিয়া",
+      "name": "Kaunia",
+      "phone": "0171337360"
+    },
+    {
+      "id": 299,
+      "district_id": 32,
+      "bn_name": "পীরগঞ্জ",
+      "name": "Pirganj",
+      "phone": "0171337361"
+    },
+    {
+      "id": 300,
+      "district_id": 27,
+      "bn_name": "গাইবান্ধা",
+      "name": "Gaibandha",
+      "phone": "01713373692"
+    },
+    {
+      "id": 301,
+      "district_id": 27,
+      "bn_name": "সাদুল্লাপুর",
+      "name": "Sadullapur",
+      "phone": "01713373693"
+    },
+    {
+      "id": 302,
+      "district_id": 27,
+      "bn_name": "সুন্দরগঞ্জ",
+      "name": "Sundarganj",
+      "phone": "01713373694"
+    },
+    {
+      "id": 303,
+      "district_id": 27,
+      "bn_name": "পলাশবাড়ি",
+      "name": "Palashbari",
+      "phone": "01713373695"
+    },
+    {
+      "id": 304,
+      "district_id": 27,
+      "bn_name": "গোবিন্দগঞ্জ",
+      "name": "Gobindganj",
+      "phone": "01713373698"
+    },
+    {
+      "id": 305,
+      "district_id": 27,
+      "bn_name": "সাতঘাটা",
+      "name": "Satghata",
+      "phone": "01713373698"
+    },
+    {
+      "id": 306,
+      "district_id": 27,
+      "bn_name": "ফুলছড়ি",
+      "name": "Fulchhari",
+      "phone": "01713373698"
+    },
+    {
+      "id": 307,
+      "district_id": 30,
+      "bn_name": "নীলফামারী",
+      "name": "Nilphamari",
+      "phone": "01713373909"
+    },
+    {
+      "id": 308,
+      "district_id": 30,
+      "bn_name": "সৈয়দপুর",
+      "name": "Syedpur",
+      "phone": "01713373910"
+    },
+    {
+      "id": 309,
+      "district_id": 30,
+      "bn_name": "জলঢাকা",
+      "name": "Jaldhaka",
+      "phone": "01713373911"
+    },
+    {
+      "id": 310,
+      "district_id": 30,
+      "bn_name": "কিশোরগঞ্জ (নীলফামারী)",
+      "name": "Kishoreganj (Nilphamari)",
+      "phone": "01713373912"
+    },
+    {
+      "id": 311,
+      "district_id": 30,
+      "bn_name": "ডোমার",
+      "name": "Domar",
+      "phone": "01713373913"
+    },
+    {
+      "id": 312,
+      "district_id": 30,
+      "bn_name": "ডিমলা",
+      "name": "Dimla",
+      "phone": "01713373914"
+    },
+    {
+      "id": 313,
+      "district_id": 30,
+      "bn_name": "সৈয়দপুর পুলিশ আউটপোস্ট",
+      "name": "Syedpur Police Outpost",
+      "phone": "01713373915"
+    },
+    {
+      "id": 314,
+      "district_id": 28,
+      "bn_name": "কুড়িগ্রাম",
+      "name": "Kurigram",
+      "phone": "01713373926"
+    },
+    {
+      "id": 315,
+      "district_id": 28,
+      "bn_name": "রাজারহাট",
+      "name": "Rajarhat",
+      "phone": "01713373926"
+    },
+    {
+      "id": 316,
+      "district_id": 28,
+      "bn_name": "ফুলবাড়ি",
+      "name": "Phulbari",
+      "phone": "01713373926"
+    },
+    {
+      "id": 317,
+      "district_id": 28,
+      "bn_name": "নাগেশ্বর",
+      "name": "Nageshwar",
+      "phone": "01713373929"
+    },
+    {
+      "id": 318,
+      "district_id": 28,
+      "bn_name": "বুড়ুন্গামারী",
+      "name": "Burungamari",
+      "phone": "01713373930"
+    },
+    {
+      "id": 319,
+      "district_id": 28,
+      "bn_name": "উলিপুর",
+      "name": "Ulipur",
+      "phone": "01713373931"
+    },
+    {
+      "id": 320,
+      "district_id": 28,
+      "bn_name": "চিলমারি",
+      "name": "Chilmari",
+      "phone": "01713373932"
+    },
+    {
+      "id": 321,
+      "district_id": 28,
+      "bn_name": "রৌমারি",
+      "name": "Roumari",
+      "phone": "01713373933"
+    },
+    {
+      "id": 322,
+      "district_id": 28,
+      "bn_name": "রাজিবপুর",
+      "name": "Rajibpur",
+      "phone": "01713373934"
+    },
+    {
+      "id": 323,
+      "district_id": 28,
+      "bn_name": "ডুসমারা",
+      "name": "Dusmara",
+      "phone": "01713373935"
+    },
+    {
+      "id": 324,
+      "district_id": 28,
+      "bn_name": "কোচাকাটা",
+      "name": "Kochakata",
+      "phone": "01713373936"
     }
   ]
 }
