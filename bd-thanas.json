@@ -1,0 +1,396 @@
+{
+  "thanas": [
+    {
+      "id": 1,
+      "district_id": 1,
+      "bn_name": "",
+      "name": "OC Ramna",
+      "phone": "01713373125"
+    },
+    {
+      "id": 2,
+      "district_id": 1,
+      "bn_name": "",
+      "name": "OC Dhanmondi",
+      "phone": "01713373126"
+    },
+    {
+      "id": 3,
+      "district_id": 1,
+      "bn_name": "",
+      "name": "OC Shahbag",
+      "phone": "01713373126"
+    },
+    {
+      "id": 4,
+      "district_id": 1,
+      "bn_name": "",
+      "name": "OC New Market",
+      "phone": "01713373126"
+    },
+    {
+      "id": 5,
+      "district_id": 1,
+      "bn_name": "",
+      "name": "OC Lalbagh",
+      "phone": "01713373134"
+    },
+    {
+      "id": 6,
+      "district_id": 1,
+      "bn_name": "",
+      "name": "OC Kotwali",
+      "phone": "01713373135"
+    },
+    {
+      "id": 7,
+      "district_id": 1,
+      "bn_name": "",
+      "name": "OC Hazaribagh",
+      "phone": "01713373136"
+    },
+    {
+      "id": 8,
+      "district_id": 1,
+      "bn_name": "",
+      "name": "OC Kamrangirchar",
+      "phone": "01713373136"
+    },
+    {
+      "id": 9,
+      "district_id": 1,
+      "bn_name": "",
+      "name": "OC Sutrapur",
+      "phone": "01713373143"
+    },
+    {
+      "id": 10,
+      "district_id": 1,
+      "bn_name": "",
+      "name": "OC Demra",
+      "phone": "01713373144"
+    },
+    {
+      "id": 11,
+      "district_id": 1,
+      "bn_name": "",
+      "name": "OC Shampur",
+      "phone": "01713373145"
+    },
+    {
+      "id": 12,
+      "district_id": 1,
+      "bn_name": "",
+      "name": "OC Jatrabari",
+      "phone": "01713373147"
+    },
+    {
+      "id": 13,
+      "district_id": 1,
+      "bn_name": "",
+      "name": "OC Motijheel",
+      "phone": "01713373152"
+    },
+    {
+      "id": 14,
+      "district_id": 1,
+      "bn_name": "",
+      "name": "OC Sabujbagh",
+      "phone": "01713373153"
+    },
+    {
+      "id": 15,
+      "district_id": 1,
+      "bn_name": "",
+      "name": "OC Khilgaon",
+      "phone": "01713373154"
+    },
+    {
+      "id": 16,
+      "district_id": 1,
+      "bn_name": "",
+      "name": "OC platoon",
+      "phone": "01713373155"
+    },
+    {
+      "id": 17,
+      "district_id": 1,
+      "bn_name": "",
+      "name": "OC Uttara",
+      "phone": "01713373171"
+    },
+    {
+      "id": 18,
+      "district_id": 1,
+      "bn_name": "",
+      "name": "OC Airport",
+      "phone": "01713373172"
+    },
+    {
+      "id": 19,
+      "district_id": 1,
+      "bn_name": "",
+      "name": "OC Turag",
+      "phone": "01713373173"
+    },
+    {
+      "id": 20,
+      "district_id": 1,
+      "bn_name": "",
+      "name": "OC Uttarkhan",
+      "phone": "01713373174"
+    },
+    {
+      "id": 21,
+      "district_id": 1,
+      "bn_name": "",
+      "name": "OC Dakshin Khan",
+      "phone": "01713373175"
+    },
+    {
+      "id": 22,
+      "district_id": 1,
+      "bn_name": "",
+      "name": "OC Gulshan",
+      "phone": "01713373171"
+    },
+    {
+      "id": 23,
+      "district_id": 1,
+      "bn_name": "",
+      "name": "OC Cantonment",
+      "phone": "01713373172"
+    },
+    {
+      "id": 24,
+      "district_id": 1,
+      "bn_name": "",
+      "name": "OC Badda",
+      "phone": "01713373173"
+    },
+    {
+      "id": 25,
+      "district_id": 1,
+      "bn_name": "",
+      "name": "OC Khilkhet",
+      "phone": "01713373174"
+    },
+    {
+      "id": 26,
+      "district_id": 1,
+      "bn_name": "",
+      "name": "OC Tejgaon",
+      "phone": "01713373160"
+    },
+    {
+      "id": 27,
+      "district_id": 1,
+      "bn_name": "",
+      "name": "OC Tejgaon Shi / A-",
+      "phone": "01713373171"
+    },
+    {
+      "id": 28,
+      "district_id": 1,
+      "bn_name": "",
+      "name": "OC Mohammadpur",
+      "phone": "01713373172"
+    },
+    {
+      "id": 29,
+      "district_id": 1,
+      "bn_name": "",
+      "name": "OC Adabar",
+      "phone": "01713373173"
+    },
+    {
+      "id": 30,
+      "district_id": 1,
+      "bn_name": "",
+      "name": "OC Mirpur",
+      "phone": "01713373179"
+    },
+    {
+      "id": 31,
+      "district_id": 1,
+      "bn_name": "",
+      "name": "OC Pallabi",
+      "phone": "01713373190"
+    },
+    {
+      "id": 32,
+      "district_id": 1,
+      "bn_name": "",
+      "name": "OC Kafrul",
+      "phone": "01713373191"
+    },
+    {
+      "id": 33,
+      "district_id": 1,
+      "bn_name": "",
+      "name": "OC Shah Ali",
+      "phone": "01713373192"
+    },
+    {
+      "id": 34,
+      "district_id": 43,
+      "bn_name": "",
+      "name": "OC Kotwali",
+      "contact": "CMP- 01713373256"
+    },
+    {
+      "id": 35,
+      "district_id": 43,
+      "bn_name": "",
+      "name": "OC Pahartali (North Zone)",
+      "contact": "01713373256"
+    },
+    {
+      "id": 36,
+      "district_id": 43,
+      "bn_name": "",
+      "name": "OC Pachlaish",
+      "contact": "01713373256"
+    },
+    {
+      "id": 37,
+      "district_id": 43,
+      "bn_name": "",
+      "name": "OC Chandgaon",
+      "contact": "01713373259"
+    },
+    {
+      "id": 38,
+      "district_id": 43,
+      "bn_name": "",
+      "name": "OC Khulsi",
+      "contact": "01713373270"
+    },
+    {
+      "id": 39,
+      "district_id": 43,
+      "bn_name": "",
+      "name": "OC Bakulia",
+      "contact": "01713373271"
+    },
+    {
+      "id": 40,
+      "district_id": 43,
+      "bn_name": "",
+      "name": "OC Bayezid Bostami",
+      "contact": "01713373272"
+    },
+    {
+      "id": 41,
+      "district_id": 43,
+      "bn_name": "",
+      "name": "OC Port",
+      "contact": "0171337327"
+    },
+    {
+      "id": 42,
+      "district_id": 43,
+      "bn_name": "",
+      "name": "OC Double Mooring",
+      "contact": "0171337327"
+    },
+    {
+      "id": 43,
+      "district_id": 43,
+      "bn_name": "",
+      "name": "OC Halishahar",
+      "contact": "01713373279"
+    },
+    {
+      "id": 44,
+      "district_id": 43,
+      "bn_name": "",
+      "name": "OC Patenga",
+      "contact": "01713373270"
+    },
+    {
+      "id": 45,
+      "district_id": 43,
+      "bn_name": "",
+      "name": "OC Karnafuli",
+      "contact": "01713373271"
+    },
+    {
+      "id": 46,
+      "district_id": 43,
+      "bn_name": "",
+      "name": "OC Immigration (Port)",
+      "contact": "01713373272"
+    },
+    {
+      "id": 47,
+      "district_id": 43,
+      "bn_name": "",
+      "name": "OC Pahartali (Port Zone)",
+      "contact": "01713373263"
+    },
+    {
+      "id": 48,
+      "district_id": 59,
+      "bn_name": "",
+      "name": "OC Khulna",
+      "phone": "01713373275"
+    },
+    {
+      "id": 49,
+      "district_id": 59,
+      "bn_name": "",
+      "name": "OC Sonadanga",
+      "phone": "0171337327"
+    },
+    {
+      "id": 50,
+      "district_id": 59,
+      "bn_name": "",
+      "name": "OC Khalishpur",
+      "phone": "0171337327"
+    },
+    {
+      "id": 51,
+      "district_id": 59,
+      "bn_name": "",
+      "name": "OC Daulatpur",
+      "phone": "0171337327"
+    },
+    {
+      "id": 52,
+      "district_id": 59,
+      "bn_name": "",
+      "name": "OC Khanjahan Ali",
+      "phone": "01713373289"
+    },
+    {
+      "id": 53,
+      "district_id": 14,
+      "bn_name": "",
+      "name": "OC Boalia",
+      "phone": "01713373309"
+    },
+    {
+      "id": 54,
+      "district_id": 14,
+      "bn_name": "",
+      "name": "OC Rajapur",
+      "phone": "01713373310"
+    },
+    {
+      "id": 55,
+      "district_id": 14,
+      "bn_name": "",
+      "name": "OC Motihar",
+      "phone": "01713373311"
+    },
+    {
+      "id": 56,
+      "district_id": 14,
+      "bn_name": "",
+      "name": "OC Shah Makdum",
+      "phone": "01713373312"
+    }
+  ]
+}
