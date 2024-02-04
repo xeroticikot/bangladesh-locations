@@ -367,30 +367,79 @@
     {
       "id": 53,
       "district_id": 14,
-      "bn_name": "",
-      "name": "OC Boalia",
+      "bn_name": "বোয়ালিয়া",
+      "name": "Boalia",
       "phone": "01713373309"
     },
     {
       "id": 54,
       "district_id": 14,
-      "bn_name": "",
-      "name": "OC Rajapur",
+      "bn_name": "রাজাপুর",
+      "name": "Rajapur",
       "phone": "01713373310"
     },
     {
       "id": 55,
       "district_id": 14,
-      "bn_name": "",
-      "name": "OC Motihar",
+      "bn_name": "মতিহার",
+      "name": "Motihar",
       "phone": "01713373311"
     },
     {
       "id": 56,
       "district_id": 14,
-      "bn_name": "",
-      "name": "OC Shah Makdum",
+      "bn_name": "শাহ মখদুম",
+      "name": "Shah Makdum",
       "phone": "01713373312"
+    },
+    {
+      "id": 57,
+      "division_id": 1,
+      "bn_name": "সাভার",
+      "name": "Savar",
+      "phone": "01713373327"
+    },
+    {
+      "id": 58,
+      "division_id": 1,
+      "bn_name": "ধামরাই",
+      "name": "Dhamrai",
+      "phone": "01713373327"
+    },
+    {
+      "id": 59,
+      "division_id": 1,
+      "bn_name": "কেরাণীগঞ্জ",
+      "name": "Keraniganj",
+      "phone": "01713373329"
+    },
+    {
+      "id": 60,
+      "division_id": 1,
+      "bn_name": "নবাবগঞ্জ",
+      "name": "Nawabganj",
+      "phone": "01713373330"
+    },
+    {
+      "id": 61,
+      "division_id": 1,
+      "bn_name": "দোহার",
+      "name": "Dohar",
+      "phone": "01713373331"
+    },
+    {
+      "id": 62,
+      "division_id": 1,
+      "bn_name": "আশুলিয়া",
+      "name": "Ashulia",
+      "phone": "01713373332"
+    },
+    {
+      "id": 63,
+      "division_id": 1,
+      "bn_name": "সাউথ কেরাণীগঞ্জ",
+      "name": "South Keraniganj",
+      "phone": "01713373333"
     }
   ]
 }
