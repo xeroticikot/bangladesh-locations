@@ -2267,6 +2267,384 @@
       "bn_name": "কোচাকাটা",
       "name": "Kochakata",
       "phone": "01713373936"
+    },
+    {
+      "id": 325,
+      "district_id": 29,
+      "bn_name": "লালমনিরহাট",
+      "name": "Lalmonirhat",
+      "phone": "01713373948"
+    },
+    {
+      "id": 326,
+      "district_id": 29,
+      "bn_name": "আদিতমারী",
+      "name": "Aditmari",
+      "phone": "01713373948"
+    },
+    {
+      "id": 327,
+      "district_id": 29,
+      "bn_name": "কালীগঞ্জ",
+      "name": "Kaliganj",
+      "phone": "01713373948"
+    },
+    {
+      "id": 328,
+      "district_id": 29,
+      "bn_name": "হাতিবান্দা",
+      "name": "Hatibanda",
+      "phone": "01713373949"
+    },
+    {
+      "id": 329,
+      "district_id": 29,
+      "bn_name": "পাটগ্রাম",
+      "name": "Patgram",
+      "phone": "01713373950"
+    },
+    {
+      "id": 343,
+      "district_id": 33,
+      "bn_name": "ঠাকুরগাঁও",
+      "name": "Thakurgaon",
+      "phone": "01713373975"
+    },
+    {
+      "id": 344,
+      "district_id": 33,
+      "bn_name": "বালিয়াডাঙ্গী",
+      "name": "Baliadangi",
+      "phone": "0171337396"
+    },
+    {
+      "id": 345,
+      "district_id": 33,
+      "bn_name": "রাণী শঙ্কৌল",
+      "name": "Rani Sankoul",
+      "phone": "0171337396"
+    },
+    {
+      "id": 346,
+      "district_id": 33,
+      "bn_name": "পীরগঞ্জ",
+      "name": "Pirganj",
+      "phone": "0171337396"
+    },
+    {
+      "id": 347,
+      "district_id": 33,
+      "bn_name": "হরিপুর",
+      "name": "Haripur",
+      "phone": "01713373969"
+    },
+    {
+      "id": 348,
+      "district_id": 31,
+      "bn_name": "পঞ্চগড়",
+      "name": "Panchagarh",
+      "phone": "01713373999"
+    },
+    {
+      "id": 349,
+      "district_id": 31,
+      "bn_name": "বোদা",
+      "name": "Boda",
+      "phone": "01713374000"
+    },
+    {
+      "id": 350,
+      "district_id": 31,
+      "bn_name": "আটোয়ারি",
+      "name": "Atwari",
+      "phone": "01713374001"
+    },
+    {
+      "id": 351,
+      "district_id": 31,
+      "bn_name": "তেতুলিয়া",
+      "name": "Tetulia",
+      "phone": "01713374002"
+    },
+    {
+      "id": 352,
+      "district_id": 31,
+      "bn_name": "দেবীগঞ্জ",
+      "name": "Debiganj",
+      "phone": "01713374003"
+    },
+    {
+      "id": 353,
+      "district_id": 23,
+      "bn_name": "পাবনা",
+      "name": "Pabna",
+      "phone": "01713374018"
+    },
+    {
+      "id": 354,
+      "district_id": 23,
+      "bn_name": "ঈশ্বরদী",
+      "name": "Ishwardi",
+      "phone": "01713374018"
+    },
+    {
+      "id": 355,
+      "district_id": 23,
+      "bn_name": "আটঘরিয়া",
+      "name": "Atgharia",
+      "phone": "01713374018"
+    },
+    {
+      "id": 356,
+      "district_id": 23,
+      "bn_name": "চাটমোহর",
+      "name": "Chatmohar",
+      "phone": "01713374019"
+    },
+    {
+      "id": 357,
+      "district_id": 23,
+      "bn_name": "ভাঙ্গোরা",
+      "name": "Bhangora",
+      "phone": "01713374020"
+    },
+    {
+      "id": 358,
+      "district_id": 23,
+      "bn_name": "ফরিদপুর (পাবনা)",
+      "name": "Faridpur (Pabna)",
+      "phone": "01713374021"
+    },
+    {
+      "id": 359,
+      "district_id": 23,
+      "bn_name": "সূর্যনগর",
+      "name": "Suryanagar",
+      "phone": "01713374022"
+    },
+    {
+      "id": 360,
+      "district_id": 23,
+      "bn_name": "ফেন্স",
+      "name": "Fence",
+      "phone": "01713374023"
+    },
+    {
+      "id": 361,
+      "district_id": 23,
+      "bn_name": "সত্য",
+      "name": "Sathya",
+      "phone": "01713374024"
+    },
+    {
+      "id": 362,
+      "district_id": 23,
+      "bn_name": "আটাইকুলা",
+      "name": "Ataikula",
+      "phone": "01713374025"
+    },
+    {
+      "id": 363,
+      "district_id": 25,
+      "bn_name": "সিরাজগঞ্জ",
+      "name": "Sirajganj",
+      "phone": "01713374037"
+    },
+    {
+      "id": 364,
+      "district_id": 25,
+      "bn_name": "শাহজাদপুর",
+      "name": "Shahjadpur",
+      "phone": "01713374039"
+    },
+    {
+      "id": 365,
+      "district_id": 25,
+      "bn_name": "উল্লাপাড়া",
+      "name": "Ullapara",
+      "phone": "01713374040"
+    },
+    {
+      "id": 366,
+      "district_id": 25,
+      "bn_name": "চৌহালি",
+      "name": "Chowhali",
+      "phone": "01713374041"
+    },
+    {
+      "id": 367,
+      "district_id": 25,
+      "bn_name": "তাড়াস",
+      "name": "Taras",
+      "phone": "01713374042"
+    },
+    {
+      "id": 368,
+      "district_id": 25,
+      "bn_name": "কাজীপুর",
+      "name": "Kazipur",
+      "phone": "01713374043"
+    },
+    {
+      "id": 369,
+      "district_id": 25,
+      "bn_name": "কামারখন্দ",
+      "name": "Kamarkhand",
+      "phone": "01713374044"
+    },
+    {
+      "id": 370,
+      "district_id": 25,
+      "bn_name": "রায়গঞ্জ",
+      "name": "Raiganj",
+      "phone": "01713374045"
+    },
+    {
+      "id": 371,
+      "district_id": 25,
+      "bn_name": "বেলকুচি",
+      "name": "Belkuchi",
+      "phone": "01713374048"
+    },
+    {
+      "id": 372,
+      "district_id": 25,
+      "bn_name": "জমুনা ব্রিজ পশ্চিম",
+      "name": "Jamuna Bridge West",
+      "phone": "01713374048"
+    },
+    {
+      "id": 373,
+      "district_id": 25,
+      "bn_name": "সালঙ্গা",
+      "name": "Salanga",
+      "phone": "01713374048"
+    },
+    {
+      "id": 374,
+      "district_id": 25,
+      "bn_name": "ইনায়েতপুর",
+      "name": "Enayetpur",
+      "phone": "01713374049"
+    },
+    {
+      "id": 375,
+      "district_id": 18,
+      "bn_name": "বগুড়া",
+      "name": "Bogra",
+      "phone": "01713374071"
+    },
+    {
+      "id": 376,
+      "district_id": 18,
+      "bn_name": "শিবগঞ্জ",
+      "name": "Shibganj",
+      "phone": "01713374072"
+    },
+    {
+      "id": 377,
+      "district_id": 18,
+      "bn_name": "সোনাতলা",
+      "name": "Sonatala",
+      "phone": "01713374063"
+    },
+    {
+      "id": 378,
+      "district_id": 18,
+      "bn_name": "গাবতলী",
+      "name": "Gabtali",
+      "phone": "01713374064"
+    },
+    {
+      "id": 379,
+      "district_id": 18,
+      "bn_name": "সারিয়াকান্দি",
+      "name": "Sariakandi",
+      "phone": "01713374065"
+    },
+    {
+      "id": 380,
+      "district_id": 18,
+      "bn_name": "আদমদিঘি",
+      "name": "Adamdighi",
+      "phone": "0171337406"
+    },
+    {
+      "id": 381,
+      "district_id": 18,
+      "bn_name": "ধুপচাচিয়া",
+      "name": "Dhupchachia",
+      "phone": "0171337406"
+    },
+    {
+      "id": 382,
+      "district_id": 18,
+      "bn_name": "কাহালু",
+      "name": "Kahalu",
+      "phone": "0171337406"
+    },
+    {
+      "id": 383,
+      "district_id": 18,
+      "bn_name": "শেরপুর",
+      "name": "Sherpur",
+      "phone": "01713374069"
+    },
+    {
+      "id": 384,
+      "district_id": 18,
+      "bn_name": "ধুনট",
+      "name": "Dhunat",
+      "phone": "01713374060"
+    },
+    {
+      "id": 385,
+      "district_id": 18,
+      "bn_name": "নন্দিগ্রাম",
+      "name": "Nandigram",
+      "phone": "01713374071"
+    },
+    {
+      "id": 386,
+      "district_id": 18,
+      "bn_name": "শাহজাহানপুর",
+      "name": "Shahjahanpur",
+      "phone": "01713374072"
+    },
+    {
+      "id": 387,
+      "district_id": 19,
+      "bn_name": "জয়পুরহাট",
+      "name": "Joypurhat",
+      "phone": "01713374072"
+    },
+    {
+      "id": 388,
+      "district_id": 19,
+      "bn_name": "কালাই",
+      "name": "Kalai",
+      "phone": "01713374063"
+    },
+    {
+      "id": 389,
+      "district_id": 19,
+      "bn_name": "ক্ষেতলাল",
+      "name": "Khetlal",
+      "phone": "01713374064"
+    },
+    {
+      "id": 390,
+      "district_id": 19,
+      "bn_name": "আক্কেলপুর",
+      "name": "Akkelpur",
+      "phone": "01713374085"
+    },
+    {
+      "id": 391,
+      "district_id": 19,
+      "bn_name": "পাঁচবিবি",
+      "name": "Pachbibi",
+      "phone": "0171337406"
     }
   ]
 }
